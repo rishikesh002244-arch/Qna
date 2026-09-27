@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "npm run dev --prefix qna",
+    "build": "npm run build --prefix qna",
+    "start": "npm run start --prefix qna"
+  },
+  "dependencies": {
+    "appwrite": "^26.2.0"
+  }
+}
